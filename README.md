@@ -6,6 +6,11 @@ There's already a lot of great information (listed below), so I'll try to cover 
 
 PRs welcome :-)
 
+## Resources
+
+* [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - a first stop for anything kotlin-related
+* [baeldung](https://www.baeldung.com/?s=kotlin) - lots of blogposts with useful nuggets of information
+
 ## TOCs / what I learned the hard way
 
 * Initializing Kotlin projects
@@ -16,12 +21,14 @@ PRs welcome :-)
 * Language constructs
     - generics / reified functions
     - data classes
+    - [Kotlin idioms](https://kotlinlang.org/docs/reference/idioms.html)
 * Functional programming
     - basics (map, filter, fold)
     - Arrow constructs (e.g. Either, Option, etc.)
 * unit testing
     - JUnit
     - kotest
+    - Mocking with mockk
 * Making http requests
     - HTTP request clients
     - JSON encoding/decoding
