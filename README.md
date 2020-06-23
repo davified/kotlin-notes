@@ -1,4 +1,4 @@
-# Kotlin Workbook
+# Kotlin Notes
 
 These are my notes on my journey of learning Kotlin. I hope to share bite-sized pieces of how to do things in Kotlin.
 
